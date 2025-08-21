@@ -26,12 +26,8 @@ Encrypted vault for local files and data (per‑file keys, hybrid recipients).
 > Add domain comments or UI copy in the **original language**.  
 > When missing or a dead language: **use Chinese (中文)**.
 
-- 日本語 (Japanese):
-  - （ここに日本語の注釈・用語・UI 文言を記述してください）
-- 中文 (Chinese):
-  - （在此填写中文注释、术语和界面文案。若缺失或为古语言，请使用中文。）
-- Español (Spanish):
-  - (Escribe aquí notas, términos y textos de interfaz en español.)
+嗨，我是 **黃美玲**，來自台灣。  
+我會確保 Cofre 以現代加密技術守護祕密，並提供友善的恢復與備份流程。
 
 ---
 
