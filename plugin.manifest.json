@@ -1,0 +1,12 @@
+{
+  "name": "cofre",
+  "displayName": "Cofre",
+  "version": "0.1.0",
+  "entry": "dist/index.js",
+  "preload": "dist/preload.js",
+  "renderer": "dist/renderer.js",
+  "capabilities": [
+    "filesystem",
+    "database"
+  ]
+}
